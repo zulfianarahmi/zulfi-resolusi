@@ -1,3 +1,4 @@
+Ini praktek belajar git dari WPU 
 Zulfi Resolusi
 - Konsisten nonton video materi
 - Membuat project per selesai nonton materi tertentu
